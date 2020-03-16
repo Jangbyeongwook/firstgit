@@ -1,3 +1,7 @@
 # firstgit
 
-i use first git
+I use first git
+
+I am hungry now........ 
+
+plz give me some food
