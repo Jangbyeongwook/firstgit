@@ -37,10 +37,10 @@
  ex) 음성, 말, 글 등
 
 이를 해결하기 위해 RNN이 탄생하였다. 하나의 뉴럴에서 현재 스테이트 결과값이 다음의 결과값에 영향을 미친다. 
-![그림19.png](./그림19.png)
+  <img src="./image19.png"  width="500">
 
 + Vanilla Recurrent Neural Network
 
-![그림20.png](./그림20.png)
+  <img src="./image20.png"  width="500">
 > 다음 스테이트에 넘겨주기 위한 h~t~가 있으며, 결과값을 출력해주는 y~t~가 존재한다.
 
