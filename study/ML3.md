@@ -9,7 +9,7 @@
   구체적으로 하나만 살펴보면 아래 그림과 같을 것이다. 
   
   ![그림11.png](./image11.png)
-  ![그림12.png](./image12.png){: width="10"}
+  ![그림12.png](./image12.png){: width="100" height="100"}
  
  A or not이라는 binary classification을 위 그림처럼 표현할 수 있으며, 이와 같이 3개의 binary classification을 만들면 된다.
   ![그림13.png](./image13.png)
