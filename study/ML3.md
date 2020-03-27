@@ -22,6 +22,7 @@
  
 + Cost function
  여기서는 cross-entropy라는 것을 이용한다.
+ 
   <img src="./image14.png"  width="500">
  
  위 그림과 같은 식을 사용하며 S는 기대출력값, L은 실제 출력값에 해당한다.
