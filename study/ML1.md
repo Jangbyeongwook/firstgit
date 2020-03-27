@@ -26,9 +26,9 @@
 #### ML 2강 Linear Regression의 Hypothesis와 cost설명
 > 이 장에서는 표와 그래프를 이용해서 설명을 한다.
 
-<center> ![그림2.png](https://github.com/Jangbyeongwook/firstgit/blob/master/study/%EA%B7%B8%EB%A6%BC1.png)</center> <center> 표1 </center>
+![표1.png](https://github.com/Jangbyeongwook/firstgit/blob/master/study/image2.png)
 
-![](https://github.com/Jangbyeongwook/firstgit/blob/master/study/image1.png)
+![그림1.png](https://github.com/Jangbyeongwook/firstgit/blob/master/study/image1.png)
 
 >표1은 입력값(x), 출력값(y)에 대한 표이며, 그림1은 표1로 부터 나타낸 그래프이다.
 
@@ -42,7 +42,7 @@
  w와 b값을 조정하면서 입력값에 맞는 출력값을 찾는 학습을 한다.
 
 + Cost
-<center>![그림3.png](./study/그림3.png)</center>
+![그림3.png](https://github.com/Jangbyeongwook/firstgit/blob/master/study/image3.png)
 
 > H(x)는 가설에 따른 출력값, y는 실제 출력값이다.
 
@@ -53,7 +53,7 @@
 #### ML 3강 Linear Regression의 cost최소화 알고리즘의 원리 설명
 
 
-<center> ![그림4.png](./study/그림4.png) </center>
+![그림4.png](https://github.com/Jangbyeongwook/firstgit/blob/master/study/image4.png)
 
 + cost와 w의 관계
  cost와 w는 위 그림과 같이 표현을 할 수 있다. w값에 따라 오차가 크게 날 수도 있으며, 오차를 0에 가깝게 만들 수 도 있다.
