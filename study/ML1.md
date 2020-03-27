@@ -26,7 +26,7 @@
 #### ML 2강 Linear Regression의 Hypothesis와 cost설명
 > 이 장에서는 표와 그래프를 이용해서 설명을 한다.
 
-<center> ![그림2.png](./study/그림2.png)</center> <center> 표1 </center>
+<center> ![그림2.png]("https://github.com/Jangbyeongwook/firstgit/blob/master/study/%EA%B7%B8%EB%A6%BC1.png")</center> <center> 표1 </center>
 
 
 <center>![그림1.png](./study/그림1.png)</center> <center> 그림1 </center>
