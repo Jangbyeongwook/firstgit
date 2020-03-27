@@ -7,6 +7,7 @@
  ex) 중간고사, 기말고사 라는 입력값과 A, B, C 등급이 출력값으로 있다고 가정하자. binary classification을 이용해 분류를 할 수 있을까? 
   A or not / B or not / C or not 이렇게 3개의 binary classification을 이용해 표현 할 수 있으며 
   구체적으로 하나만 살펴보면 아래 그림과 같을 것이다. 
+  
   ![그림11.png](./image11.png)
   ![그림12.png](./image12.png)
  
