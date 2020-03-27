@@ -29,7 +29,7 @@
 <center> ![그림2.png](https://github.com/Jangbyeongwook/firstgit/blob/master/study/%EA%B7%B8%EB%A6%BC1.png)</center> <center> 표1 </center>
 
 
-<center>![그림1.png](./study/그림1.png)</center> <center> 그림1 </center>
+<center>![그림1.png](https://github.com/Jangbyeongwook/firstgit/blob/master/study/image1.png)</center> <center> 그림1 </center>
 
 
 >표1은 입력값(x), 출력값(y)에 대한 표이며, 그림1은 표1로 부터 나타낸 그래프이다.
