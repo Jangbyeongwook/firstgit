@@ -23,17 +23,17 @@ Minsky 교수님께서 XoR은 multi layer perceptron을 이용하면 풀 수 있
 #### 9강 XOR 문제 딥러닝으로 풀기
 > 뉴럴네트워크를 이용해서 XoR의 문제를 푸는 방법을 알려준다.
 
-![그림15.png](./그림15.png)
+  <img src="./image15.png"  width="500">
 
 > w와 b값은 가정을 한 것이며, 단순히 풀릴 수 있는지만 확인을 해 보자.
  
-![그림16.png](./그림16.png)
+  <img src="./image16.png"  width="500">
 > 위 그림을 하나로 표현한 것이다.
 
 + How cna we learn W1,W2,B1,B2 from training data?
  - backpropagation(chain rule)을 이용하자.
  
-![그림17.png](./그림17.png)
+  <img src="./image17.png"  width="500">
 > forward로 진행을 한 후, backword 진행
 > 가장 마지막 노드의 식을 먼저 구한다. 노드 전의 입력이 노드 출력에 미치는 영향을 알고 있다면, chain rule을 이용해서  backpropagation을 이용할 수 가 있다. 
 
@@ -44,7 +44,7 @@ Minsky 교수님께서 XoR은 multi layer perceptron을 이용하면 풀 수 있
 + ReLU(Rectified Linear Unit)
  Vanishing gradient문제를 해결하기 위해 sigmoid 대신 ReLU를 이용하자.
 
-![그림18.png](./그림18.png)
+  <img src="./image18.png"  width="500">
 
 > 확실히 NN에서 ReLU를 사용하면, cost도, accuracy도 좋아지는 모습을 볼수가 있다.
 > ReLU말고도 더 upgrade된 함수가 있다. (activation function 검색)
