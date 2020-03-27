@@ -7,7 +7,7 @@
 + Multi-variable linear regression의 표현
 이전 까지는 입력값이 1개였고, 그에 따라 가설을 세우면 H(x)=wx+b라고 표현할 수 있었다. 위와 같이 여러 개를 입력값으로 받는 것은 아래와 같이 표현할 수 있다.
 
-![그림6.png](https://github.com/Jangbyeongwook/firstgit/blob/master/study/image6.png)
+![그림6.png](./image6.png)
 
 쉽게 생각해서 입력값에 대해 각각의 가중치를 부여해주면 된다.
 
