@@ -30,7 +30,7 @@ Minsky 교수님께서 XoR은 multi layer perceptron을 이용하면 풀 수 있
   <img src="./image16.png"  width="500">
 > 위 그림을 하나로 표현한 것이다.
 
-+ How cna we learn W1,W2,B1,B2 from training data?
++ How can we learn W1,W2,B1,B2 from training data?
  - backpropagation(chain rule)을 이용하자.
  
   <img src="./image17.png"  width="500">
